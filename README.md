@@ -54,7 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ProtoShiva/ProtoShiva/output/snake.svg" alt="Snake animation" />
 
 ###
 
