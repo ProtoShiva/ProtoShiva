@@ -49,7 +49,6 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
 </div>
 
 ###
